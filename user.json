@@ -1,0 +1,47 @@
+{
+  "user": {
+    "person": [
+      {
+        "ID": "0",
+        "name": " Sana_Hamed",
+        "Address": " Palestine_silwad",
+        "location" :"47,-122"
+      },
+      {
+        "ID": "1",
+        "name": " Shrouq_Morar",
+        "Address": " Palestine_Dir-sodan",
+        "location" :"50,-146"
+
+      },
+      {
+        "ID": "2",
+        "name": " Layali_ziedan",
+        "Address": " Palestine_Biteen",
+        "location" :"30,-756"
+
+      },
+      {
+        "ID": "3",
+        "name": " Hanan_safi",
+        "Address": " Palestine_Ni'leen",
+        "location" :"40,-522"
+
+      },
+      {
+        "ID": "4",
+        "name": " Maisam_Theeb",
+         "Address": " Palestine_shoqpa",
+        "location" :"47,-135"
+
+      },
+      {
+        "ID": "5",
+        "name": " Mariam_Omran",
+        "Address": " Palestine_ kofrmalik",
+        "location" :"60,-122"
+
+      }
+    ]
+  }
+}
